@@ -2,4 +2,5 @@
 
 Poc Minio Frontned
 
-ng new --no-standalone
+# Angular Scaffolding
+ng new poc-minio-frontend --no-standalone
